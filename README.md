@@ -23,7 +23,7 @@ This project demonstrates how to create a **Subject-Level Clinical Report Listin
 ---
 
 ## 🧾 Sample Output
-![Image](https://github.com/user-attachments/assets/a10b4cfc-3f51-4ea7-bff1-95fea2a348ca)
+![Image](https://github.com/user-attachments/assets/1702c2f1-e9e0-4c85-a0fb-83e4facb4719)
 
 
 ---
