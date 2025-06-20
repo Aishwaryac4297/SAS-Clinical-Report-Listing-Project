@@ -1,5 +1,5 @@
 /*IMPORT ADVS DATASET*/;
-PROC IMPORT DATAFILE="C:\Users\Aishwarya\OneDrive\Documents\SAS Project Listing ADVS Raw data.xlsx"
+PROC IMPORT DATAFILE="C:\Users\Documents\SAS Project Listing ADVS Raw data.xlsx"
 OUT=WORK.ADVS
 DBMS=XLSX REPLACE;
 RUN;
@@ -9,7 +9,7 @@ SET WORK.ADVS;
 RUN;
 
 /*IMPORT ADSL DATASET*/;
-PROC IMPORT DATAFILE="C:\Users\Aishwarya\Desktop\project+notes\SAS Project Listing ADSL Raw data.xlsx"
+PROC IMPORT DATAFILE="C:\Users\project+notes\SAS Project Listing ADSL Raw data.xlsx"
 OUT=WORK.ADSL
 DBMS= XLSX REPLACE;
 RUN;
